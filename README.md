@@ -13,7 +13,8 @@
 
 This repository contains the source code for my personal portfolio website, hosted using GitHub Pages. It showcases my skills, projects, and basic information in a clean and responsive design.
 
-🔗 Live Website: https://govindchauhan.github.io
+🔗 Live Website: 
+https://govindchauhan-s.github.io/govindchauhan.github.io
 
 
 ---
