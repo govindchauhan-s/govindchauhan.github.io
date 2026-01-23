@@ -8,7 +8,7 @@ Designed especially for students, frontend developers, and job seekers, this pro
 
 🚀 Live Demo
 
-🔗 https://govindchauhan-s.github.io/govindchauhans.github.io/
+🔗 https://govindchauhan-s.github.io/govindchauhan.github.io/
 
 🧠 Project Overview
 
@@ -58,7 +58,7 @@ Each section is built as a separate reusable React component, making the code cl
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/govindchauhan-s/govindchauhans.github.io.git cd govindchauhans.github.io
+git clone https://github.com/govindchauhan-s/govindchauhans.github.io.git cd govindchauhan.github.io
 
 2️⃣ Install Dependencies
 
