@@ -8,7 +8,7 @@ Designed especially for students, frontend developers, and job seekers, this pro
 
 🚀 Live Demo
 
-🔗 https://govindchauhan-s.github.io/govindchauhan.github.io/
+🔗 https://govindchauhan-s.github.io/govindchauhans.github.io/
 
 🧠 Project Overview
 
